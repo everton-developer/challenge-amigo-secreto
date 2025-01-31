@@ -1,13 +1,12 @@
 # 🎁 Amigo Secreto
 
-Projeto desenvolvido como parte do **Desafio do Oracle Next Education**, com o objetivo de fortalecer habilidades em **JavaScript**, **HTML** e **CSS** através da implementação de um sistema de sorteio de amigo secreto.
+Projeto desenvolvido como parte do **Challenge do Oracle Next Education**, com o objetivo de fortalecer habilidades em **JavaScript** através da implementação de um sistema de sorteio de amigo secreto.
 
 ## 📌 Funcionalidades
 
 ✅ Adicionar amigos à lista\
 ✅ Sortear um amigo secreto aleatoriamente\
 ✅ Remover o amigo sorteado da lista para novas rodadas\
-✅ Interface intuitiva e responsiva
 
 ## 🖥️ Tecnologias Utilizadas
 
@@ -16,6 +15,11 @@ Projeto desenvolvido como parte do **Desafio do Oracle Next Education**, com o o
 - **JavaScript** para lógica do sorteio e manipulação do DOM
 
 ## 🚀 Como Executar o Projeto
+
+Abra direto no github Pages
+https://everton-developer.github.io/challenge-amigo-secreto/
+
+ou siga o procedimento abaixo:
 
 1. Faça o download ou clone este repositório:
    ```bash
@@ -29,7 +33,8 @@ Projeto desenvolvido como parte do **Desafio do Oracle Next Education**, com o o
 
 ## 📷 Demonstração
 
-Adicione aqui uma captura de tela ou GIF do funcionamento do projeto.
+![alt text](image.png)
+![alt text](image-1.png)
 
 ## 📌 Estrutura dos Arquivos
 
@@ -40,15 +45,3 @@ Adicione aqui uma captura de tela ou GIF do funcionamento do projeto.
 │── app.js        # Lógica do sorteio e manipulação do DOM  
 │── assets/       # Imagens e ícones utilizados  
 ```
-
-## 💡 Melhorias Futuras
-
-🔹 Adicionar animações para um efeito mais dinâmico\
-🔹 Implementar uma opção para reiniciar o sorteio\
-🔹 Criar um modo compartilhável com envio dos resultados
-
-## 📝 Licença
-
-Este projeto é de uso livre para fins educacionais.
-
-
