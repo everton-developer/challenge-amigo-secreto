@@ -130,14 +130,15 @@ ul {
     list-style-type: none;
     color: var(--color-text);
     font-family: "Inter", sans-serif;
-    font-size: 18px;
+    font-size: 20px;
     margin: 20px 0;
+    color: var(--color-primary);
 }
 
 .result-list {
     margin-top: 15px;
     color: #05DF05;
-    font-size: 22px;
+    font-size: 26px;
     font-weight: bold;
     text-align: center;
 }

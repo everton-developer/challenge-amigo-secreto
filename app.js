@@ -30,7 +30,7 @@ function sortearAmigo() {
     console.log(`Número escolhido ${numeroSorteado}`);
     console.log(`Nome escolhido ${amigoSecreto}`);
     campo.innerHTML = "";
-    resultado.innerHTML = amigoSecreto;
+    resultado.innerHTML = `O amigo secreto é o(a):${"<br>"} ${amigoSecreto}`;
     listaDeAmigos.splice(numeroSorteado, 1);
     console.log(`Lista dos nomes restantes:
 ${listaDeAmigos}`);
