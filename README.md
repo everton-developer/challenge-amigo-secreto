@@ -33,8 +33,8 @@ ou siga o procedimento abaixo:
 
 ## 📷 Demonstração
 
-![alt text](image.png)
-![alt text](image-1.png)
+![lista de nomes](assets/lista-de-nomes.png)
+![nome sorteado](assets/nome-sorteado.png)
 
 ## 📌 Estrutura dos Arquivos
 
